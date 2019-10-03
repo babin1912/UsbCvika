@@ -1,0 +1,13 @@
+shift + c
+daj si alt home
+koliesko tocis 
+shift a koliesko mysi
+ctrl koliesko mysi
+
+num 1, 7, 3 s ctrl  naopak
+ctrl + space da mi na cele
+pivot olny origins sa nemenia velskosti len vzdialenost
+
+shift c da do centra
+alt koliesko mysi\
+desatinna bodka hodi ta na vybrany objekt
